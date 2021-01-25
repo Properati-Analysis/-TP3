@@ -17,3 +17,7 @@
   Se incluye:
   - Análisis Exploratorio
   - Limpieza de Datos
+  - Feature Engineering
+  - Clustering by K-means
+  - Recomendación por usuario (User-Item)
+  - Recomendación por similaridad (Item-Item)
