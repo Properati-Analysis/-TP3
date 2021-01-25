@@ -1,4 +1,4 @@
-# TP3 Data Clustering/Classification - Análisis XX - Grupo 2
+# TP3 Data Clustering/Classification/Recommendation - Grupo 2
 
 ## **Integrantes:**
   - [Federico Pazo](https://github.com/FedericoPazo)
@@ -7,10 +7,10 @@
   
 ## **Contenido:**
 
-  **[Slide]()** de la presentación
+  **[Slide](https://github.com/Properati-Analysis/-TP3/blob/main/TP3.pdf)** de la presentación
   
   **Notebook:**
-  - [TP3](https://github.com/Properati-Analysis/TP2/blob/main/TP2.ipynb)
+  - [TP3](https://github.com/Properati-Analysis/-TP3/blob/main/TP3.ipynb)
     
   **Notas:**
   
